@@ -1,3 +1,4 @@
-class Main{
+public class Main{
 	Public void main();
+	public void function1();
 }
